@@ -1,5 +1,5 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [1] Config.pm:314> INFO - Logfile is 'Nebenfachvorstellung_Folien.blg'
-[209] biber-MSWIN64:340> INFO - === 
-[271] Biber.pm:415> INFO - Reading 'Nebenfachvorstellung_Folien.bcf'
-[428] Utils.pm:395> WARN - No data sources defined!
+[189] biber-MSWIN64:340> INFO - === 
+[240] Biber.pm:415> INFO - Reading 'Nebenfachvorstellung_Folien.bcf'
+[388] Utils.pm:395> WARN - No data sources defined!
