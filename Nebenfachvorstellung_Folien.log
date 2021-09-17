@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.13)  17 SEP 2021 13:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.13)  17 SEP 2021 14:42
 entering extended mode
 **./Nebenfachvorstellung_Folien.tex
 (Nebenfachvorstellung_Folien.tex
@@ -1415,6 +1415,8 @@ Package pdftex.def Info: welle.png  used on input line 265.
  <./welle.png>]
 [8
 
+] [9
+
 ]
 \tf@nav=\write7
 \openout7 = `Nebenfachvorstellung_Folien.nav'.
@@ -1435,10 +1437,10 @@ Package logreq Info: Writing requests to 'Nebenfachvorstellung_Folien.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31351 strings out of 478927
- 588581 string characters out of 2852535
+ 31355 strings out of 478927
+ 588614 string characters out of 2852535
  1320109 words of memory out of 3000000
- 48574 multiletter control sequences out of 15000+600000
+ 48576 multiletter control sequences out of 15000+600000
  415518 words of font info for 59 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  128i,15n,124p,762b,2329s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1450,9 +1452,9 @@ ur/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\pinak\AppData\Local\MiKTeX\fonts/p
 k/ljfour/jknappen/ec/dpi600\ecss1440.pk><C:/Users/pinak/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/pinak/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Nebenfachvorstellung_Folien.pdf (8 pages, 174964 bytes).
+Output written on Nebenfachvorstellung_Folien.pdf (9 pages, 176692 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 236 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
